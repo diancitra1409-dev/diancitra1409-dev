@@ -1,21 +1,25 @@
 # Halo, aku Dian Citra! 👋
 
-Pengembang perangkat lunak yang berfokus membangun aplikasi web yang fungsional dan terstruktur. Senang mempelajari teknologi baru dan mengubah ide menjadi kode yang bersih.
+Full-Stack Developer yang berfokus membangun solusi digital inovatif melalui teknologi, integrasi AI, dan *user-centered design*. Berpengalaman mengembangkan aplikasi *end-to-end*, mulai dari perancangan antarmuka pengguna hingga arsitektur backend dan integrasi API cerdas.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Bahasa:** JavaScript, Python, PHP
-- **Frontend / Backend:** React, Laravel, Node.js
-- **Tools:** Git, GitHub, VS Code, Postman
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **AI & Integrasi:** GPT-based Model Integration (via Elice AI)
+- **Services & Tools:** Mayar Payment Gateway, Nodemailer, Git, GitHub
 
 ---
 
-### 📌 Fokus Saat Ini
-- 🔭 Mengembangkan proyek-proyek web 
-- 🌱 Mendalami konsep arsitektur aplikasi dan optimasi kode
-- 💬 Terbuka untuk diskusi seputar web development dan kolaborasi proyek
+### 🚀 Proyek Unggulan
+
+- **VeriHire:** Platform bertenaga AI untuk deteksi lowongan kerja penipuan dan optimasi CV (ATS compatibility & job scanner).
+- **Book Recommendation System:** Aplikasi pencarian dan rekomendasi buku berdasarkan judul dan nama penulis.
+- **Friendship Memory App:** Aplikasi personal relationship management untuk mencatat profil, tanggal penting, dan kenangan teman.
+- **Promise Keeper App:** Aplikasi pelacak komitmen, tujuan pribadi, dan pengingat tenggat waktu.
 
 ---
 
